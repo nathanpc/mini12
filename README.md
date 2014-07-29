@@ -9,7 +9,7 @@ I've also included a LTSpice schematic file if you want to play around with the 
 
 It's a classic class AB amplifier topology. Previously it had a class A pre-amplifier stage but I decided to remove it and let the op-amp handle the voltage and current amplification stages.
 
-**TODO: Put the schematic of the amp here**
+![Amplifier](http://i.imgur.com/ooLOsXO.png)
 
 The power supply is very simple since it's supposed to be powered by 6x18650 cells or 2x9V batteries.
 
