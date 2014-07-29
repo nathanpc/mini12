@@ -5,7 +5,7 @@ A low-distortion (<0.1% THD) 12W per channel class AB amplifier.
 I've also included a LTSpice schematic file if you want to play around with the circuit.
 
 
-# Schematics
+## Schematics
 
 It's a classic class AB amplifier topology. Previously it had a class A pre-amplifier stage but I decided to remove it and let the op-amp handle the voltage and current amplification stages.
 
